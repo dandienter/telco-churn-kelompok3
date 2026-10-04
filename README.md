@@ -1,14 +1,16 @@
 # Data Preparation — Studi Kasus Telco Customer Churn
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dandienter/telco-churn-kelompok3/blob/main/Data_Preparation_Telco_Churn_Kelompok3.ipynb)
+
 **Mata Kuliah:** Machine Learning — **Kelompok 3**
 
-| Anggota | |
+| Nama | NPM |
 |---|---|
-| Frisilia Elfira Maharani | |
-| Febyana Mulia Putri | |
-| Wanda Nurhasanah | |
-| Muhammad Revolvere Rey A | |
-| Ahmad Dandi Subhani | |
+| Ahmad Dandi Subhani | 202343500126 |
+| Frisilia Elfira Maharani | 202343500138 |
+| Febyana Mulia Putri | 202343500151 |
+| Wanda Nurhasanah | 202343500154 |
+| Muhammad Revolvere Rey A | 202343500166 |
 
 ## Ringkasan
 
